@@ -1,6 +1,6 @@
 # WANDA
 
-![Wanda Logo](logo.jpg)
+![Wanda Logo](https://github.com/CodeWanda/.github/blob/672e92ee5690aa435fdace95783c6a02db3c2481/profile/logo.jpg)
 
 
 
